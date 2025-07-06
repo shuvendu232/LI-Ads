@@ -1060,6 +1060,8 @@ const otherNames = [
     "pickaxe",
     "Prime",
     "Prime Platinum",
+    "Prime with 0 days",
+    "Prime Platinum with 0 days",
     "repair kit",
     "solar barrels",
     "gasoline barrels",
