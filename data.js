@@ -1154,6 +1154,7 @@ const businessTypes = [
     "Hair salon",
     "Jewelry store",
     "Oil Well",
+    "a private",
     "Parking",
     "Plantation",
     "Pumpkin plantation",
