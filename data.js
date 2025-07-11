@@ -1153,6 +1153,7 @@ const businessTypes = [
     "Clothing shop",
     "Cowshed",
     "Electric station",
+    "family",
     "Farm",
     "Flower shop",
     "Freight train",
