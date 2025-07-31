@@ -621,6 +621,7 @@ const otherNames = [
     "gloves",
     "glowing snow glasses",
     "gorilla mask",
+    "Glowing face scarf mask",
     "half-glowing pants",
     "haliky T-shirt",
     "haliky hoodie",
