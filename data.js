@@ -989,8 +989,8 @@ const otherNames = [
     "mushroom seeds",
     "a Grand ticket",
     "Grand tickets",
-    "power booster shots"
-    "a power booster shot"
+    "power booster shots",
+    "a power booster shot",
     "hookah",
     "attack juices",
     "protection juices",
