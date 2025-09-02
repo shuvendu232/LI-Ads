@@ -992,6 +992,7 @@ const otherNames = [
     "power booster shots",
     "a power booster shot",
     "hookah",
+    "juices",
     "attack juices",
     "protection juices",
     "endurance juices",
