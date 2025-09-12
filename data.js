@@ -986,6 +986,7 @@ const otherNames = [
     "pumpkin fruits",
     "strawberry fruits",
     "pineapple fruits",
+    "vegetables",
     "cabbage vegetables",
     "seeds",
     "pineapple seeds",
