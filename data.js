@@ -975,7 +975,7 @@ const otherNames = [
     "daily study of the organization container",
     "Captured caravans container",
     "Delivered caravans container",
-    "battery",
+    "a battery",
     "batteries",
     "Elixir for a pet",
     "perch",
