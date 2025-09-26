@@ -542,6 +542,9 @@ const otherNames = [
     "Munk mask",
     "Neon Pants Set New Sample LW",
     "Shorts Lui Vi",
+    "Leather gothic pants",
+    "Backpack Capsule skin",
+    "Acic Gel Kayano sneakers",
     "Nik mask",
     "Niki Groundporce One new collection shoes",
     "Niki Shox shoes",
@@ -682,6 +685,7 @@ const otherNames = [
     "shamanic mask",
     "shiny deer antler headband accessory",
     "short pullover",
+    "Saruko neon mask",
     "skeleton king mask",
     "skirt with tights",
     "snowboarders mask",
@@ -1191,6 +1195,8 @@ const otherNames = [
     "cage with a Cute Hippo",
     "cage with a Mini Robot",
     "cage with a Panda",
+    "cage with a Cyberdog",
+    "cage with a Robobeast",
 
 ];
 const businessTypes = [
