@@ -803,7 +803,7 @@ function validateDatingAd() {
 
 // Simulated Database Check Function
 function isNameInDatabase(name) {
-    const databaseNames = ["Carl Jordan", "Nyx Kleps", "Kim Abergil", "John Doe"]; // Example database
+    const databaseNames = ["Max Uchiha", "Carl Jordan", "Nyx Kleps", "Kim Abergil", "John Doe"]; // Example database
     return databaseNames.includes(name);
 }
 
@@ -934,7 +934,7 @@ function generateWorkAd() {
     let salaryM = document.getElementById("salaryM").checked ? document.getElementById("salaryM").value : "";
     let salaryK = document.getElementById("salaryK").checked ? document.getElementById("salaryK").value : "";
     let site = document.getElementById("constructionSite").value;
-    let salaryText = salary ? `Salary: $${salary}${salaryK}${salaryM}` : "Salary: Negotiable";
+    let salaryText = salary ? `Salary: $${salary}${salaryK}${salaryM}` : "Salary: Negotiable.";
 
     let output = "";
     if (workType === "Hiring") {
