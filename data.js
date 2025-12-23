@@ -1120,7 +1120,8 @@ const otherNames = [
     "paint cans",
     "a pearl",
     "pearls",
-    "pet food",
+    "pet foods",
+    "a pet food",
     "pickaxe",
     "Prime",
     "Prime Platinum",
@@ -1149,6 +1150,7 @@ const otherNames = [
     "video cards",
     "wires",
     "tokens",
+    "a token",
     "top quality metal",
     "a tonic treat",
     "tonic treats",
@@ -1212,6 +1214,7 @@ const otherNames = [
     "cage with a Panda",
     "cage with a Cyberdog",
     "cage with a Robobeast",
+    "cage with a Mr Candy Cane",
 
 ];
 const businessTypes = [
