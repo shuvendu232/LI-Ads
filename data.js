@@ -1261,7 +1261,7 @@ const blacklist = [
     "Buying a husband",
     "Looking for sugar daddy",
     "Looking for sugar mommy",
-    "Looking for paid date"
+    "Looking for paid date",
 ];
 
 function isBlacklisted(adText) {
