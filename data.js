@@ -1253,7 +1253,7 @@ const businessTypes = [
     "Service station",
     "24/7 Store",
     "Tattoo studio",
-    "Taxi company"
+    "Taxi company",
     "Warehouse",
 ];
 const blacklist = [
