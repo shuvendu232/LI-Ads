@@ -1223,8 +1223,11 @@ const otherNames = [
 ];
 const businessTypes = [
     "Ammunition Store",
+    "ATM",
     "Bar",
+    "Burger shop",
     "Car wash",
+    "Car sharing",
     "Chip tuning",
     "Clothing shop",
     "Cowshed",
@@ -1234,7 +1237,9 @@ const businessTypes = [
     "Flower shop",
     "Freight train",
     "Gas station",
+    "Grand Elite",
     "Hair salon",
+    "Juice shop",
     "Jewelry store",
     "Oil Well",
     "a private",
@@ -1244,16 +1249,12 @@ const businessTypes = [
     "Cabbage plantation",
     "Mandarin plantation",
     "Pineapple plantation",
-    "Car sharing",
     "State object",
     "Service station",
     "24/7 Store",
     "Tattoo studio",
-    "Warehouse",
-    "Burger shop",
-    "Juice shop",
-    "ATM",
     "Taxi company"
+    "Warehouse",
 ];
 const blacklist = [
     "Buying a wife",
