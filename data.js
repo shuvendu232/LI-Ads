@@ -1145,6 +1145,8 @@ const otherNames = [
     "mandarin",
     "mushrooms",
     "snow",
+    "sponges",
+    "a sponge",
     "solar panels",
     "SIM cards",
     "SIM card № 77-77-777",
