@@ -1063,7 +1063,7 @@ const otherNames = [
     "license plate",
     "lottery ticket",
     "luminous wheels",
-    "luminous wheel of type",
+    "luminous wheels of type",
     "milk",
     "a firework",
     "fireworks",
