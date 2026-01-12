@@ -567,6 +567,7 @@ const otherNames = [
     "RGB neon shoes",
     "Razer headphones",
     "SSC Kit Bag skin",
+    "Branded Small backpack skin",
     "Santa Claus mask",
     "Sashmello mask",
     "Scary chicken backpack skin",
