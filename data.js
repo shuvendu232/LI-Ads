@@ -657,6 +657,7 @@ const otherNames = [
     "luminous jacket with turquoise trim",
     "luminous shoes",
     "luminous trousers",
+    "luminous trousers of type",
     "luminous stones",
     "a luminous stone",
     "mix collection T-shirt",
