@@ -581,6 +581,8 @@ const otherNames = [
     "TRON full set",
     "TRON helmet",
     "TRON torso",
+    "TRON pants",
+    "TRON shoes",
     "TV-head mask",
     "The West Pace jacket",
     "Tsum collection T-shirt",
