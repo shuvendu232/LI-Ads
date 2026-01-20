@@ -1225,6 +1225,7 @@ const otherNames = [
     "cage with a Cyberdog",
     "cage with a Robobeast",
     "cage with a Mr Candy Cane",
+    "cage with a Futuristic Friend",
 
 ];
 const businessTypes = [
