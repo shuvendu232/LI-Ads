@@ -1000,7 +1000,7 @@ const otherNames = [
     "Delivered caravans container",
     "a battery",
     "batteries",
-    "Elixir for a pet",
+    "Biospark",
     "dice",
     "perch",
     "carp",
