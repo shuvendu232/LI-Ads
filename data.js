@@ -625,6 +625,7 @@ const otherNames = [
     "demon mask",
     "denim jacket",
     "desert scarf mask",
+    "desert scarf mask of type",
     "devil mask",
     "dress",
     "earphones with a heart",
@@ -1281,6 +1282,7 @@ const businessTypes = [
     "Tattoo studio",
     "Taxi company",
     "Warehouse",
+    "Business Control",
 ];
 const blacklist = [
     "Buying a wife",
